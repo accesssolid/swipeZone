@@ -1,0 +1,17 @@
+{
+  "extends": "@react-native/typescript-config/tsconfig.json"
+  // "compilerOptions": {
+  //   "baseUrl": ".",
+  //   "paths": {
+  //     "na_screens/*": ["./src/screens/nonAuth/*"],
+  //     "a_screens/*": ["./src/screens/auth/*"],
+  //     "components/*": ["./src/screens/components/*"],
+  //     "modals/*": ["./src/screens/modals/*"],
+  //     "api/*": ["./src/api/Services/*"],
+  //     "utils/*": ["./src/utils/*"],
+  //     "routesKeys/*": ["./src/routes/RouteKeys/*"],
+  //     "reducers/*": ["./src/redux/Reducers/*"],
+  //     "localization/*": ["./src/localization/*"],
+  //   }
+  // }
+}
