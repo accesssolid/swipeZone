@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "2318722263",
+    "project_id": "swipezone-sports",
+    "storage_bucket": "swipezone-sports.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2318722263:android:12ed7867bfa89ec1c3bc92",
+        "android_client_info": {
+          "package_name": "com.swipezonesports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2318722263-h5s0jp9efsqf41mt3ln9brkmc6a9jugu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC5iFMSwbD9cPnRqDXL9AIy7XBnHUYIrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2318722263-h5s0jp9efsqf41mt3ln9brkmc6a9jugu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "2318722263-c9t37nr0mbk02q7k67f3ur9usimo7h18.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.swipezonesports"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
